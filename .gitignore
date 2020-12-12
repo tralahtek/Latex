@@ -122,3 +122,6 @@ _site
 stime
 Mytemplates/
 Archivesbackup/
+*.log
+*.pdf
+*.aux
