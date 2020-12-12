@@ -125,3 +125,6 @@ Archivesbackup/
 *.log
 *.pdf
 *.aux
+*.toc
+*.brf
+*.idx
